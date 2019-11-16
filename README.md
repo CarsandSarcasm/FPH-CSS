@@ -552,8 +552,6 @@ a[href$="/u/Ruston"]:after { content: "OG Shitlord";background: #f8f8f8;border: 
 
 a[href$="/u/PetChan"]:after { content: "Autistic Shitlady";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
 
-a[href$="/u/mmmmdonuts"]:after { content: "Triggering the Fats Since 2013";background: #FF00FF;background-image: url("https://files.catbox.moe/hr4d0l.jpg");border: 1px solid #FF00FF;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
-
 a[href$="/u/Sylph"]:after { content: "The Hampire Slayer";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
 
 a[href$="/u/fabulousalpaca"]:after { content: "Shitlady Nurse";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
