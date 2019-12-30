@@ -166,9 +166,7 @@ a[href*="voat.co"].title:after { background-position: 0px -72px } a[href*="reddi
 /* End Sprite sheet */
 
 /*------------- FLAIRS
-
 .flair-NSFW, .flair-NSFL, .flair-Quality,
-
 -------------*/
 
 .flair, .submission a.title::before { display: inline-block; text-align: center; background: #DDD; border: 2px solid #BBB; border-radius: 10px; color: #666; }
@@ -445,31 +443,18 @@ a[href*="voat.co"].title:after { background-position: 0px -72px } a[href*="reddi
 /* Sidebar Links */
 
 /* .light a[href$="/v/fatpeoplestories"]:after { content: "Stories about Fat People"; }
-
 a[href$="/v/FitvsFatshion"]:after { content: "Comparison between fats and fits"; }
-
 a[href$="/v/fatlogic"]:after { content: "For a lighter version"; }
-
 a[href$="/v/fphdiscussionn"]:after { content: "For your meta and discussion posts"; }
-
 a[href$="/v/FPHShitpost"]:after { content: "For your shitposts and circlejerks"; }
-
 a[href$="/v/talesoffathate"]:after { content: "For your stories about fat hate"; }
-
 a[href$="/v/hamplanethatemail "]:after { content: "For your hate mail"; }
-
 a[href$="/v/fatpeoplegifs"]:after { content: "Holy my fries"; }
-
 a[href$="/v/TPWISAFUCKINGBITCH"]:after { content: "Because TPW is a fucking bitch"; }
-
 a[href$="/v/ProtectBerry"]:after { content: "For your white knighting needs"; }
-
 a[href$="/v/fphfitness"]:after { content: "about fitness?"; }
-
 a[href$="/v/fph4fph"]:after { content: "A Place for Shitlords & Shitladies to Meet"; }
-
 a[href$="/v/AskFPH"]:after { content: "FPH combined with Askvoat."; }
-
 */
 
 /* Mod flairs */
@@ -534,9 +519,7 @@ a[href$="/u/JTtheGhost"]:after { content: "Verified Auschwitz Survivor";backgrou
 
 a[href$="/u/thegoldenboy"]:after { content: "Verified Cuckold";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
 
-/* Custom Flair Raffle */
-
-a[href$="/u/Phillyshitlord"]:after { content: "Philthy Shitlord - Sector 215";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
+/* Custom Flair Raffle */ a[href$="/u/Phillyshitlord"]:after { content: "Philthy Shitlord - Sector 215";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
 
 a[href$="/u/theepilepticferret"]:after { content: "Verified Trophy Wife";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
 
@@ -551,6 +534,8 @@ a[href$="/u/That_wont_do_pig"]:after { content: "Verified Shitkid";background: #
 a[href$="/u/Ruston"]:after { content: "OG Shitlord";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
 
 a[href$="/u/PetChan"]:after { content: "Autistic Shitlady";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
+
+a[href$="/u/mmmmdonuts"]:after { content: "Triggering the Fats Since 2013";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
 
 a[href$="/u/Sylph"]:after { content: "The Hampire Slayer";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
 
@@ -591,6 +576,7 @@ a[href$="/u/PeaceLoveAndRamen"]:after, a[href$="/u/Dildoe_Swagginz"]:after, a[hr
 a[href$="/u/Cunninglinguist1"]:after { content: "Verified Faggot";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
 
 a[href$="/u/DorothyMantooth"]:after { content: "Shitlady Saint";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
+
 
 /* "Verified Shitlord" flair */
 
@@ -1567,5 +1553,8 @@ a[href$="/u/AngryAlmond"]:after,
 a[href$="/u/CognitiveDissident5"]:after,
 a[href$="/u/FlashFlare"]:after,
 a[href$="/u/FattiesWillDie"]:after,
+a[href$="/u/saloblades"]:after,
+a[href$="/u/Twodivinehipsters"]:after,
+a[href$="/u/GinForBreakfast"]:after,
 a[href$="/u/GuntGoblin"]:after
 { content: "Verified Shitlady";background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle; }
